@@ -7,7 +7,7 @@ Hi, I'm Mercy, a healthcare analyst skilled in data analysis, SQL, machine learn
 # Soft skill
 - Teamwork
 - problem solving
-- Health opereation management
+- Health operation management
 - Active listening
 - Critical thinking
 - Excellent communication/storytelling
@@ -19,7 +19,7 @@ Hi, I'm Mercy, a healthcare analyst skilled in data analysis, SQL, machine learn
 - statistics
 - Power BI
 - Powerpoint
-- R
+- R language
 # Career goals
 - Leverage data driven insight to improve and optimise health care operations.
 - To become a leading health care analytics professional in providing insight that drive business growth.
@@ -27,4 +27,4 @@ Hi, I'm Mercy, a healthcare analyst skilled in data analysis, SQL, machine learn
 The goal is not just number, it's telling a story that birth informed decision.
 We are down to earth.
 # location
-Lagos, Nigerian.
+Lagos, Nigeria.
